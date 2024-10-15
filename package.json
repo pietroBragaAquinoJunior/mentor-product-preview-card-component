@@ -43,5 +43,8 @@
   "dependencies": {
     "@prisma/client": "^4.8.1",
     "@sidebase/core": "^0.1.4"
+  },
+  "engines": {
+    "node": "16.14.2"
   }
 }
